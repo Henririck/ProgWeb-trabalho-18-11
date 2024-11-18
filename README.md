@@ -18,9 +18,9 @@ Pelo radiobutton da tela você seleciona as opções de conversões assim que vo
 A parte de verificação de que opções você faz é feita com um switch e verifica na API o valor da conversão para que a conta seja feita quando você apertar o botão de converter.
 
 Exemplo:
-## 1 - O usuário seleciona a opção "Real -> Dolar" no RadioButton.
-## 2 - O usuário digita "100" no campo de valor.
-## 3 - O usuário pressiona o botão de conversão.
-## 4 - O código realiza a requisição à API para obter a taxa de conversão de BRL para USD.
-## 5 - O valor 100 é multiplicado pela taxa de conversão retornada, e o resultado é exibido.
+**1 -** O usuário seleciona a opção "Real -> Dolar" no RadioButton.
+**2 -** O usuário digita "100" no campo de valor.
+**3 -** O usuário pressiona o botão de conversão.
+**4 -** O código realiza a requisição à API para obter a taxa de conversão de BRL para USD.
+**5 -** O valor 100 é multiplicado pela taxa de conversão retornada, e o resultado é exibido.
  
